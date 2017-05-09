@@ -19,5 +19,5 @@ Once you have done this, you need to follow these steps to get it working:
     New order status - This is the default order status set when a user selects PayDunya to "processing".
     All orders with this status mean the user created an order but pending the payment.
 4.  Save configurations
-   
+  
 Paydunya - Beyond limits!
